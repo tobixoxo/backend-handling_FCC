@@ -3,10 +3,12 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "Sanjeev Singh Rawat",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
+	"description": "backend handling course by FCC",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
